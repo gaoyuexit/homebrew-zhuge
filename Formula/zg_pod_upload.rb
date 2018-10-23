@@ -2,10 +2,10 @@
 #                https://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class ZgPodUpload < Formula
-  desc ""
-  homepage ""
-  url "https://github.com/gaoyuexit/homebrew-zg_pod_upload/blob/master/zg_pod_upload-1.0.tar.xz?raw=true"
-  sha256 "cfee11072e225ac9c0941583ed55aaad3a12f1a89e1f648d6264e640ff716c33"
+  desc "a simple tool for update cocoapods private repo"
+  homepage "http://gaoyu.in"
+  url "https://github.com/gaoyuexit/homebrew-zhuge/blob/master/zg_pod_upload/zg_pod_upload-1.1.tar.xz?raw=true"
+  sha256 "51f569524e1312de6da6a6f7f9216f93af055c3d59d9d6a2e6ebcb2c0a93be2a"
   # depends_on "cmake" => :build
 
   def install
