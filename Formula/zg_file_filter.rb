@@ -4,8 +4,8 @@
 class ZgFileFilter < Formula
   desc "a simple tool to filter some name files in two directory"
   homepage "http://gaoyu.in"
-  url "https://github.com/gaoyuexit/homebrew-zhuge/blob/master/zg_file_filter/zg_file_filter-1.0.tar.xz?raw=true"
-  sha256 "81d6788ba47a51d7bedbcd6b14ef0b426315d1d341a9adce8c0d32bd4d3284ac"
+  url "https://github.com/gaoyuexit/homebrew-zhuge/blob/master/zg_file_filter/zg_file_filter-1.0.0.tar.xz?raw=true"
+  sha256 "76d74e2a7549711fb2ba09fc59d414fa82d79ef5922d40b907ab5fc802bf93d7"
   # depends_on "cmake" => :build
 
   def install
